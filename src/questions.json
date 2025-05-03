@@ -1,0 +1,502 @@
+[
+    {
+      "number": 1,
+      "category": "History",
+      "question": "What is the name often given to the stories told by Aboriginal peoples about creation and the land?",
+      "options": [
+        "Captain Cook Tales",
+        "Dreamtime stories / The Dreaming",
+        "ANZAC Legends"
+      ]
+    },
+    {
+      "number": 2,
+      "category": "Mathematics",
+      "question": "What is 45 ÷ 5?",
+      "options": [
+        "8",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "number": 3,
+      "category": "Science",
+      "question": "What force pulls things down towards the Earth?",
+      "options": [
+        "Magnetism",
+        "Gravity",
+        "Wind"
+      ]
+    },
+    {
+      "number": 4,
+      "category": "General Knowledge",
+      "question": "What ocean is on the West coast of Australia?",
+      "options": [
+        "Pacific Ocean",
+        "Southern Ocean",
+        "Indian Ocean"
+      ]
+    },
+    {
+      "number": 5,
+      "category": "Mathematics",
+      "question": "If a movie starts at 6:00 PM and lasts for 1 hour and 30 minutes, what time does it finish?",
+      "options": [
+        "7:30 PM",
+        "7:00 PM",
+        "8:30 PM"
+      ]
+    },
+    {
+      "number": 6,
+      "category": "History",
+      "question": "What event do Australians remember on ANZAC Day (April 25th)?",
+      "options": [
+        "Australia Day founding",
+        "Remembering soldiers / Gallipoli landing / Wars",
+        "The Queen's Birthday"
+      ]
+    },
+    {
+      "number": 7,
+      "category": "Science",
+      "question": "Name one of the five senses.",
+      "options": [
+        "Thinking",
+        "Hearing",
+        "Running"
+      ]
+    },
+    {
+      "number": 8,
+      "category": "Mathematics",
+      "question": "How many corners (vertices) does a cube have?",
+      "options": [
+        "6",
+        "8",
+        "12"
+      ]
+    },
+    {
+      "number": 9,
+      "category": "General Knowledge",
+      "question": "How many days are there in a week?",
+      "options": [
+        "7",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "number": 10,
+      "category": "Science",
+      "question": "What is H₂O more commonly known as?",
+      "options": [
+        "Air",
+        "Water",
+        "Salt"
+      ]
+    },
+    {
+      "number": 11,
+      "category": "History",
+      "question": "Was school long ago exactly the same as school today?",
+      "options": [
+        "Yes",
+        "No",
+        "Only the holidays were different"
+      ]
+    },
+    {
+      "number": 12,
+      "category": "Mathematics",
+      "question": "What is 50 + 150 - 30?",
+      "options": [
+        "170",
+        "230",
+        "180"
+      ]
+    },
+    {
+      "number": 13,
+      "category": "General Knowledge",
+      "question": "Name the three primary colours.",
+      "options": [
+        "Red, Green, Blue",
+        "Red, Yellow, Blue",
+        "Orange, Purple, Green"
+      ]
+    },
+    {
+      "number": 14,
+      "category": "Science",
+      "question": "What part of a plant usually grows underground and absorbs water?",
+      "options": [
+        "Leaves",
+        "Flower",
+        "Roots"
+      ]
+    },
+    {
+      "number": 15,
+      "category": "History",
+      "question": "Are mobile phones something from 'long ago' or 'now'?",
+      "options": [
+        "Long ago",
+        "Now",
+        "Both"
+      ]
+    },
+    {
+      "number": 16,
+      "category": "Mathematics",
+      "question": "How many centimetres are in one metre?",
+      "options": [
+        "10",
+        "1000",
+        "100"
+      ]
+    },
+    {
+      "number": 17,
+      "category": "Science",
+      "question": "What do we call baby cats?",
+      "options": [
+        "Puppies",
+        "Kittens",
+        "Cubs"
+      ]
+    },
+    {
+      "number": 18,
+      "category": "General Knowledge",
+      "question": "How many months are there in a year?",
+      "options": [
+        "10",
+        "12",
+        "24"
+      ]
+    },
+    {
+      "number": 19,
+      "category": "History",
+      "question": "What famous building in Sydney looks like sails?",
+      "options": [
+        "Sydney Harbour Bridge",
+        "Sydney Opera House",
+        "Parliament House"
+      ]
+    },
+    {
+      "number": 20,
+      "category": "Mathematics",
+      "question": "What is the next number in this pattern: 5, 10, 15, 20, __?",
+      "options": [
+        "25",
+        "30",
+        "21"
+      ]
+    },
+    {
+      "number": 21,
+      "category": "Science",
+      "question": "Is wood a natural or man-made material?",
+      "options": [
+        "Man-made",
+        "Natural",
+        "Sometimes natural, sometimes man-made"
+      ]
+    },
+    {
+      "number": 22,
+      "category": "History",
+      "question": "Who were the first people to live in Australia?",
+      "options": [
+        "British Convicts",
+        "Dutch Explorers",
+        "Aboriginal and Torres Strait Islander peoples"
+      ]
+    },
+    {
+      "number": 23,
+      "category": "Mathematics",
+      "question": "What is 1/2 of 30?",
+      "options": [
+        "10",
+        "15",
+        "20"
+      ]
+    },
+    {
+      "number": 24,
+      "category": "General Knowledge",
+      "question": "What noise does a kookaburra make?",
+      "options": [
+        "A hoot",
+        "A laugh",
+        "A quack"
+      ]
+    },
+    {
+      "number": 25,
+      "category": "Science",
+      "question": "Do fish breathe air through lungs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only baby fish"
+      ]
+    },
+    {
+      "number": 26,
+      "category": "History",
+      "question": "What colours are on the Aboriginal Flag?",
+      "options": [
+        "Green, Gold, White",
+        "Black, Red, Yellow",
+        "Blue, White, Red"
+      ]
+    },
+    {
+      "number": 27,
+      "category": "Mathematics",
+      "question": "If you buy a comic for $4.50 and a drink for $2.00, how much do you spend altogether?",
+      "options": [
+        "$6.00",
+        "$6.50",
+        "$5.50"
+      ]
+    },
+    {
+      "number": 28,
+      "category": "General Knowledge",
+      "question": "What continent is Australia in?",
+      "options": [
+        "Asia",
+        "Australia (or Oceania/Australasia)",
+        "Africa"
+      ]
+    },
+    {
+      "number": 29,
+      "category": "Science",
+      "question": "Name an animal that lives in the cold Arctic or Antarctic.",
+      "options": [
+        "Kangaroo",
+        "Penguin",
+        "Camel"
+      ]
+    },
+    {
+      "number": 30,
+      "category": "History",
+      "question": "Name one way people travelled long ago, before cars were common.",
+      "options": [
+        "Aeroplane",
+        "Horse and cart",
+        "Bullet train"
+      ]
+    },
+    {
+      "number": 31,
+      "category": "Mathematics",
+      "question": "What is 200 - 65?",
+      "options": [
+        "145",
+        "135",
+        "125"
+      ]
+    },
+    {
+      "number": 32,
+      "category": "General Knowledge",
+      "question": "What is the large island state south of mainland Australia?",
+      "options": [
+        "New Zealand",
+        "Tasmania",
+        "Fiji"
+      ]
+    },
+    {
+      "number": 33,
+      "category": "Science",
+      "question": "What source gives the Earth its main light and heat during the day?",
+      "options": [
+        "The Moon",
+        "Stars",
+        "The Sun"
+      ]
+    },
+    {
+      "number": 34,
+      "category": "History",
+      "question": "What is the name of the big red rock formation in the centre of Australia?",
+      "options": [
+        "Kata Tjuta (The Olgas)",
+        "Uluru / Ayers Rock",
+        "Wave Rock"
+      ]
+    },
+    {
+      "number": 35,
+      "category": "Mathematics",
+      "question": "What is 5 x 100?",
+      "options": [
+        "50",
+        "5000",
+        "500"
+      ]
+    },
+    {
+      "number": 36,
+      "category": "General Knowledge",
+      "question": "What is the capital city of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra"
+      ]
+    },
+    {
+      "number": 37,
+      "category": "Science",
+      "question": "Name one thing that all living creatures need to survive.",
+      "options": [
+        "Television",
+        "Water",
+        "Money"
+      ]
+    },
+    {
+      "number": 38,
+      "category": "Mathematics",
+      "question": "How many sides does a hexagon have?",
+      "options": [
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "number": 39,
+      "category": "History",
+      "question": "Where did Captain James Cook land in Australia in 1770?",
+      "options": [
+        "Sydney Harbour",
+        "Botany Bay",
+        "Perth"
+      ]
+    },
+    {
+      "number": 40,
+      "category": "Science",
+      "question": "What gas do humans breathe in to live?",
+      "options": [
+        "Carbon Dioxide",
+        "Oxygen",
+        "Helium"
+      ]
+    },
+    {
+      "number": 41,
+      "category": "Mathematics",
+      "question": "A bus has 25 seats. 18 people get on. How many seats are empty?",
+      "options": [
+        "7",
+        "8",
+        "6"
+      ]
+    },
+    {
+      "number": 42,
+      "category": "General Knowledge",
+      "question": "What do bees make that we can eat?",
+      "options": [
+        "Jam",
+        "Honey",
+        "Pollen cakes"
+      ]
+    },
+    {
+      "number": 43,
+      "category": "History",
+      "question": "Name an animal that appears on an Australian coin.",
+      "options": [
+        "Koala (Note: Koala is NOT on current circulation coins)",
+        "Kangaroo",
+        "Wombat"
+      ]
+    },
+    {
+      "number": 44,
+      "category": "Science",
+      "question": "Is the Sun a planet or a star?",
+      "options": [
+        "Planet",
+        "Star",
+        "Moon"
+      ]
+    },
+    {
+      "number": 45,
+      "category": "Mathematics",
+      "question": "Which is more: 3 lots of 6, or 2 lots of 10?",
+      "options": [
+        "3 lots of 6",
+        "2 lots of 10",
+        "They are the same"
+      ]
+    },
+    {
+      "number": 46,
+      "category": "History",
+      "question": "What colours are on the Australian National Flag?",
+      "options": [
+        "Green and Gold",
+        "Red, White, and Blue",
+        "Black, Red, and Yellow"
+      ]
+    },
+    {
+      "number": 47,
+      "category": "General Knowledge",
+      "question": "How many states are there in Australia?",
+      "options": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "number": 48,
+      "category": "Mathematics",
+      "question": "What is 135 + 47?",
+      "options": [
+        "172",
+        "182",
+        "192"
+      ]
+    },
+    {
+      "number": 49,
+      "category": "Science",
+      "question": "If you have 4 bags, and each bag has 8 apples, how many apples do you have in total?",
+      "options": [
+        "12",
+        "32",
+        "28"
+      ]
+    },
+    {
+      "number": 50,
+      "category": "Mathematics",
+      "question": "If you have 4 bags, and each bag has 8 apples, how many apples do you have in total? (Multiplication)",
+      "options": [
+         "12",
+         "32",
+         "24"
+       ]
+     }
+  ]
